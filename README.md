@@ -1,5 +1,9 @@
 # Leadership Orientation Questionnaire
 
+This questionnaire asks you to describe yourself as a manager and leader. For each item, assign
+the number 4 to the phrase that best describes you, 3 to the item that is next best, and on down
+to 1 for the item that is least like you.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

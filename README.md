@@ -6,6 +6,9 @@ to 1 for the item that is least like you.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+https://leadership-orientation.s3-eu-west-1.amazonaws.com/index.html
+
 ## Available Scripts
 
 In the project directory, you can run:

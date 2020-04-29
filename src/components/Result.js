@@ -14,11 +14,11 @@ function Result(props) {
       transitionAppearTimeout={500}
     >
       <div>
-        <h3>You prefer <strong>{props.quizResult}</strong>!</h3>
+        <h3>Your leadership style is <strong>{props.quizResult}</strong>!</h3>
 
         <hr></hr>
 
-        <h2>Leadership Orientation Descriptions:</h2>
+        <h2>Leadership Orientation Descriptions</h2>
 
         <h3>Structural Leaders:</h3>
         <p>Structural leaders emphasize rationality, analysis, logic, facts, and data. They are likely to believe strongly in the importance of clear structure and well-developed management systems. A good leader is someone who thinks clearly, makes the right decisions, has good analytical skills, and can design structures and systems that get the job done.</p>

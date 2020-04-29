@@ -3,19 +3,19 @@ var quizQuestions = [
         question: "My strongest skills are:",
         answers: [
             {
-                type: "Structural",
+                type: "structural",
                 content: "Analytical skills"
             },
             {
-                type: "Human Resource",
+                type: "human Resource",
                 content: "Interpersonal skills"
             },
             {
-                type: "Political",
+                type: "political",
                 content: "Political skills"
             },
             {
-                type: "Symbolic",
+                type: "symbolic",
                 content: "Flair for drama"
             }
         ]
@@ -24,19 +24,19 @@ var quizQuestions = [
         question: "The best way to describe me is:",
         answers: [
             {
-                type: "Structural",
+                type: "structural",
                 content: "Technical expert"
             },
             {
-                type: "Human Resource",
+                type: "human resource",
                 content: "Good listener"
             },
             {
-                type: "Political",
+                type: "political",
                 content: "Skilled negotiator"
             },
             {
-                type: "Symbolic",
+                type: "symbolic",
                 content: "Inspirational leader"
             }
         ]
@@ -45,19 +45,19 @@ var quizQuestions = [
         question: "What has helped me the most is my ability to:",
         answers: [
             {
-                type: "Structural",
+                type: "structural",
                 content: "Make good decisions"
             },
             {
-                type: "Human Resource",
+                type: "human resource",
                 content: "Coach and develop people"
             },
             {
-                type: "Political",
+                type: "political",
                 content: "Build strong alliances and a power base"
             },
             {
-                type: "Symbolic",
+                type: "symbolic",
                 content: "Inspire and excite others"
             }
         ]
@@ -66,19 +66,19 @@ var quizQuestions = [
         question: "What people are most likely to notice about me is my:",
         answers: [
             {
-                type: "Structural",
+                type: "structural",
                 content: "Attention to detail"
             },
             {
-                type: "Human Resource",
+                type: "human Resource",
                 content: "Concern for people"
             },
             {
-                type: "Political",
+                type: "political",
                 content: "Ability to succeed, in the face of conflict and opposition"
             },
             {
-                type: "Symbolic",
+                type: "symbolic",
                 content: "Charisma"
             }
         ]
@@ -87,19 +87,19 @@ var quizQuestions = [
         question: "My most importand leadership trait is:",
         answers: [
             {
-                type: "Structural",
+                type: "structural",
                 content: "Clear, logical thinking"
             },
             {
-                type: "Human Resource",
+                type: "human Resource",
                 content: "Caring and support for others"
             },
             {
-                type: "Political",
+                type: "political",
                 content: "Toughness and aggresiveness"
             },
             {
-                type: "Symbolic",
+                type: "symbolic",
                 content: "Imagination and creativity"
             }
         ]
@@ -108,19 +108,19 @@ var quizQuestions = [
         question: "I am best described as:",
         answers: [
             {
-                type: "Structural",
+                type: "structural",
                 content: "An analyst"
             },
             {
-                type: "Human Resource",
+                type: "human resource",
                 content: "A humanist"
             },
             {
-                type: "Political",
+                type: "political",
                 content: "A politician"
             },
             {
-                type: "Symbolic",
+                type: "symbolic",
                 content: "A visionary"
             }
         ]

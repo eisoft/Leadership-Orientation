@@ -1,89 +1,130 @@
 var quizQuestions = [
-  {
-      question: "What franchise would you rather play a game from?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "Halo"
-          },
-          {
-              type: "Nintendo",
-              content: "Pokemon"
-          },
-          {
-              type: "Sony",
-              content: "Uncharted"
-          }
-      ]
-  },
-  {
-      question: "Which console would you prefer to play with friends?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "X-Box"
-          },
-          {
-              type: "Nintendo",
-              content: "Nintendo 64"
-          },
-          {
-              type: "Sony",
-              content: "Playstation 1"
-          }
-      ]
-  },
-  {
-      question: "Which of these racing franchises would you prefer to play a game from?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "Forza"
-          },
-          {
-              type: "Nintendo",
-              content: "Mario Kart"
-          },
-          {
-              type: "Sony",
-              content: "Gran Turismo"
-          }
-      ]
-  },
-  {
-      question: "Which of these games do you think is best?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "BioShock"
-          },
-          {
-              type: "Nintendo",
-              content: "The Legend of Zelda: Ocarina of Time"
-          },
-          {
-              type: "Sony",
-              content: "Final Fantasy VII"
-          }
-      ]
-  },
-  {
-      question: "What console would you prefer to own?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "X-Box One"
-          },
-          {
-              type: "Nintendo",
-              content: "Wii U"
-          },
-          {
-              type: "Sony",
-              content: "Playstation 4"
-          }
-      ]
-  }
+    {
+        question: "My strongest skills are:",
+        answers: [
+            {
+                type: "Structural",
+                content: "Analytical skills"
+            },
+            {
+                type: "Human Resource",
+                content: "Interpersonal skills"
+            },
+            {
+                type: "Political",
+                content: "Political skills"
+            },
+            {
+                type: "Symbolic",
+                content: "Flair for drama"
+            }
+        ]
+    },
+    {
+        question: "The best way to describe me is:",
+        answers: [
+            {
+                type: "Structural",
+                content: "Technical expert"
+            },
+            {
+                type: "Human Resource",
+                content: "Good listener"
+            },
+            {
+                type: "Political",
+                content: "Skilled negotiator"
+            },
+            {
+                type: "Symbolic",
+                content: "Inspirational leader"
+            }
+        ]
+    },
+    {
+        question: "What has helped me the most is my ability to:",
+        answers: [
+            {
+                type: "Structural",
+                content: "Make good decisions"
+            },
+            {
+                type: "Human Resource",
+                content: "Coach and develop people"
+            },
+            {
+                type: "Political",
+                content: "Build strong alliances and a power base"
+            },
+            {
+                type: "Symbolic",
+                content: "Inspire and excite others"
+            }
+        ]
+    },
+    {
+        question: "What people are most likely to notice about me is my:",
+        answers: [
+            {
+                type: "Structural",
+                content: "Attention to detail"
+            },
+            {
+                type: "Human Resource",
+                content: "Concern for people"
+            },
+            {
+                type: "Political",
+                content: "Ability to succeed, in the face of conflict and opposition"
+            },
+            {
+                type: "Symbolic",
+                content: "Charisma"
+            }
+        ]
+    },
+    {
+        question: "My most importand leadership trait is:",
+        answers: [
+            {
+                type: "Structural",
+                content: "Clear, logical thinking"
+            },
+            {
+                type: "Human Resource",
+                content: "Caring and support for others"
+            },
+            {
+                type: "Political",
+                content: "Toughness and aggresiveness"
+            },
+            {
+                type: "Symbolic",
+                content: "Imagination and creativity"
+            }
+        ]
+    },
+    {
+        question: "I am best described as:",
+        answers: [
+            {
+                type: "Structural",
+                content: "An analyst"
+            },
+            {
+                type: "Human Resource",
+                content: "A humanist"
+            },
+            {
+                type: "Political",
+                content: "A politician"
+            },
+            {
+                type: "Symbolic",
+                content: "A visionary"
+            }
+        ]
+    }
 ];
 
 export default quizQuestions;

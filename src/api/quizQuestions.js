@@ -7,7 +7,7 @@ var quizQuestions = [
                 content: "Analytical skills"
             },
             {
-                type: "human Resource",
+                type: "human resource",
                 content: "Interpersonal skills"
             },
             {
@@ -70,7 +70,7 @@ var quizQuestions = [
                 content: "Attention to detail"
             },
             {
-                type: "human Resource",
+                type: "human resource",
                 content: "Concern for people"
             },
             {
@@ -84,14 +84,14 @@ var quizQuestions = [
         ]
     },
     {
-        question: "My most importand leadership trait is:",
+        question: "My most important leadership trait is:",
         answers: [
             {
                 type: "structural",
                 content: "Clear, logical thinking"
             },
             {
-                type: "human Resource",
+                type: "human resource",
                 content: "Caring and support for others"
             },
             {
